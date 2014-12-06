@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone Finder</string>
+    <string name="instructions">Instructions:</string>
+
+
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="actualinstructions">When enabled, Phone Finder listens  for the key phrase \"Phone
+    Where Are You?\". Once Phone Finder hears this phrase, your android device emits a beeping noise and vibrates. Phone Finder listens all the time, no matter the state of the phone.
+    The service can be disabled within the app. Make sure you speak loudly and clearly. The app does work offline, but the accuracy of the listener decreases. Phone Finder
+    is limited to a certain radius and may not work when phone is far away. Other music media will not work while Phone Finder is on. Long periods of usage is not suggested due to battery drain. </string>
+
+    <string name="working">Listening...Click Here to Stop</string>
+
+
+</resources>
